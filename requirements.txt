@@ -1,0 +1,10 @@
+pandas
+matplotlib
+scikit-learn
+umap-learn
+numpy
+seaborn
+scipy
+adjustText
+shap
+imbalanced-learn
